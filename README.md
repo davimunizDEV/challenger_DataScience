@@ -15,17 +15,6 @@ Custo médio de frete
 
 Com essas informações, foi elaborado um relatório final com recomendações baseadas em evidências, incluindo gráficos e comparações visuais.
 
-🗂️ Estrutura do Projeto
-
-bash
-Copiar
-Editar
-├── AluraStoreBr.ipynb # Notebook principal com todas as análises, gráficos e relatório final
-
-├── README.md                   # Este arquivo
-
-Todas as análises e gráficos estão contidos no notebook
-
 
 📊 Exemplos de Gráficos e Insights Obtidos
 
