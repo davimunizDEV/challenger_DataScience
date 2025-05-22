@@ -20,8 +20,7 @@ Com essas informações, foi elaborado um relatório final com recomendações b
 bash
 Copiar
 Editar
-├── AluraStoreBr.ipynb 
-# Notebook principal com todas as análises, gráficos e relatório final
+├── AluraStoreBr.ipynb # Notebook principal com todas as análises, gráficos e relatório final
 
 ├── README.md                   # Este arquivo
 
