@@ -16,6 +16,7 @@ Custo médio de frete
 Com essas informações, foi elaborado um relatório final com recomendações baseadas em evidências, incluindo gráficos e comparações visuais.
 
 🗂️ Estrutura do Projeto
+
 bash
 Copiar
 Editar
@@ -26,6 +27,7 @@ Todas as análises e gráficos estão contidos no notebook
 
 
 📊 Exemplos de Gráficos e Insights Obtidos
+
 🔸 Faturamento Total das Lojas
 Loja 4 obteve o maior faturamento entre todas, com destaque para produtos de alto valor agregado.
 
