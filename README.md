@@ -20,7 +20,9 @@ Com essas informações, foi elaborado um relatório final com recomendações b
 bash
 Copiar
 Editar
-├── AluraStoreBr.ipynb         # Notebook principal com todas as análises, gráficos e relatório final
+├── AluraStoreBr.ipynb 
+# Notebook principal com todas as análises, gráficos e relatório final
+
 ├── README.md                   # Este arquivo
 
 Todas as análises e gráficos estão contidos no notebook
@@ -44,6 +46,7 @@ Loja 1 tem um custo de frete mais baixo, mas o desempenho geral da loja não com
 Foi feita uma análise individual por loja para identificar quais produtos são campeões de venda e quais têm menor saída.
 
 ▶️ Instruções para Executar o Notebook
+
 Faça login na sua conta Google e abra o notebook com Google Colab.
 
 Acesse o arquivo AluraStoreBr.ipynb.
