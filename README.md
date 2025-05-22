@@ -43,4 +43,4 @@ Execute as células do notebook na ordem para carregar os dados, gerar os gráfi
 
 Certifique-se de que as bibliotecas matplotlib e collections estejam disponíveis (já vêm instaladas no Colab por padrão).
 
-acesse o Link: 
+
